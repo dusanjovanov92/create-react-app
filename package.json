@@ -34,8 +34,5 @@
     "yarn.lock": [
       "git rm --cached"
     ]
-  },
-  "dependencies": {
-    "babel-plugin-transform-decorators": "^6.24.1"
   }
 }
